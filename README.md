@@ -62,7 +62,7 @@ These are key financial metrics that can be positively or negatively impacted by
 The formula for measuring the impact of FinTech on bank performance is:
 
 ```plaintext
-PER_b,c,t = α + β1 * FinTechBusinessModel_c,t + γ * X_b,c,t + δ * W_c,t + Other_b,c,t ```
+PER_b,c,t = α + β1 * FinTechBusinessModel_c,t + γ * X_b,c,t + δ * W_c,t + Other_b,c,t```
 
 
 | Metric                 | Payment Firms (2000s) | Payment Firms (2010s) | Payment Firms (2020/21) | Commercial Banks (2000s) | Commercial Banks (2010s) | Commercial Banks (2020/21) |
