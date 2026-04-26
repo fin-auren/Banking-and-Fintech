@@ -59,12 +59,6 @@ These are key financial metrics that can be positively or negatively impacted by
     - **P2P Lending**
     - **Balance Sheet Lending**
 
-The formula for measuring the impact of FinTech on bank performance is:
-
-```plaintext
-PER_b,c,t = α + β1 * FinTechBusinessModel_c,t + γ * X_b,c,t + δ * W_c,t + Other_b,c,t```
-
-
 | Metric                 | Payment Firms (2000s) | Payment Firms (2010s) | Payment Firms (2020/21) | Commercial Banks (2000s) | Commercial Banks (2010s) | Commercial Banks (2020/21) |
 | ---------------------- | --------------------- | --------------------- | ----------------------- | ------------------------ | ------------------------ | -------------------------- |
 | **Market Cap ($m)**    | 145,957               | 598,772               | 1,606,677               | 1,210,550                | 1,500,518                | 1,959,797                  |
@@ -75,3 +69,12 @@ PER_b,c,t = α + β1 * FinTechBusinessModel_c,t + γ * X_b,c,t + δ * W_c,t + Ot
 | **ROA (%)**            | 2.38                  | 4.54                  | 4.44                    | 0.90                     | 0.86                     | 0.89                       |
 | **ROE (%)**            | 15.99                 | 21.10                 | 16.32                   | 10.93                    | 8.58                     | 10.37                      |
 | **Revenue Growth (%)** | 4.94                  | 8.84                  | 8.87                    | 8.51                     | 1.63                     | -5.11                      |
+
+
+
+The formula for measuring the impact of FinTech on bank performance is:
+
+```plaintext
+PER_b,c,t = α + β1 * FinTechBusinessModel_c,t + γ * X_b,c,t + δ * W_c,t + Other_b,c,t```
+
+
