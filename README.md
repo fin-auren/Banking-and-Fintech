@@ -199,9 +199,9 @@ The session emphasizes how **FinTech** disrupts **banking** by targeting specifi
   
 - **Bank Performance Measurement**:
   - **Formula**:  
-    \[
+    $$
     \text{PER}_{b,c,t} = \alpha + \beta_1 \cdot \text{FinTechBusinessModel}_{c,t} + \gamma \cdot X_{b,c,t} + \delta \cdot W_{c,t} + \text{Other}_{b,c,t}
-    \]
+    $$
   - Key metrics: **ROE**, **ROA**, **NIM**, **NONIC**, **CTI**.
 
 If you have further questions or need additional clarifications, feel free to ask!
