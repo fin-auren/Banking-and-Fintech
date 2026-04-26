@@ -93,3 +93,31 @@ Where:
 ## 2. Key Performance Ratios (ROE, ROA, NIM, NONIC, CTI)
 
 - **Return on Equity (ROE)**:
+
+- ROE = Net Income / Equity
+
+
+- **Return on Assets (ROA)**:
+
+ROA = Net Income / Total Assets
+
+
+- **Net Interest Margin (NIM)**:
+
+NIM = (Interest Income - Interest Expense) / Interest-Earning Assets
+
+NONIC = Non-Interest Income / Average Assets
+
+
+- **Cost to Income Ratio (CTI)**:
+
+
+CTI = Operating Expenses / (Net Interest Income + Non-Interest Income)
+
+
+
+
+
+
+
+
