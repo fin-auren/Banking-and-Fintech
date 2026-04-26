@@ -106,6 +106,10 @@ ROA = Net Income / Total Assets
 
 NIM = (Interest Income - Interest Expense) / Interest-Earning Assets
 
+
+- **Non-Interest Income (NONIC)**:
+
+
 NONIC = Non-Interest Income / Average Assets
 
 
